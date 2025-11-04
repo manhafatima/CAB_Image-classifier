@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>My Machine Learning Model</title>
+    <link href="styles.css" rel="stylesheet" type="text/css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <nav>
+      <ul>
+        <li>
+          <a href="index.html">Image Classifier</a>
+        </li>
+      </ul>
+    </nav>
+
+    <div class="exp">
+      <h2>EXPERIENCE 📒</h2>
+
+      <p>
+        <u><b>KWK Fall Scholar:</b></u> I was able to be a part of Kode with
+        klossy's (KWK) Fall Code-A-Bration (CAB). In this program, I had the
+        chance to learn more about the field of AI/Ml, and create my own image
+        classifier using Teachable Machine.
+      </p>
+
+      <p>
+        <u><b>GWC Summer Pathways Scholar:</b></u> I was a part of Girls Who
+        Code (GWC) Summer Pathways program. This was a six-week program that
+        introduced me to the world of web development. I learned beginner HTML
+        and CSS, and was able to build my own portfolio website.
+      </p>
+
+      <p>
+        <u><b>Intro to programming with Python (CodeHS):</b></u>
+        I have been able to take a CodeHS python course in my highschool, and
+        learnt ALOT about programming concepts and ways to write more efficient
+        and cleaner code! I learned about various data structures in Python,
+        such as lists, tuples, dicts, etc. I was also introduced to Turtle
+        graphics in this class, and built various designs with it.
+      </p>
+
+      <h2>HOBBIES 🌸</h2>
+
+      <p>
+        In my free time, I love spending quality time with my parents and family
+        general. I also love watching comedy, and thriller movies or web series!
+      </p>
+
+      <p>
+        I also like learning more about different things in tech. Recently, I
+        have started to gain a lot of interest in the fields of AI/ML!
+      </p>
+    </div>
+  </body>
+</html>
